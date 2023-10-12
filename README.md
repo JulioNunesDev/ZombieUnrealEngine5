@@ -1,4 +1,4 @@
-# Zombie Coins - Jogo de Coleta de Frutas com Zumbi
+# Zombie Fruits - Jogo de Coleta de Frutas com Zumbi
 
 ![Zombie Coins Logo](https://i.imgur.com/dCldfWQ.png)
 
