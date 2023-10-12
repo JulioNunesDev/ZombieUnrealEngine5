@@ -1,0 +1,274 @@
+[+] Containers:
+ |- [+] Container: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:1B1A84034044708D370FBC95AAF72CF0 BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_treasurechest.BP_PROP_treasurechest_C NativeClass:/Script/Engine.Actor Name:BP_PROP_treasurechest_C_UAID_0AE0AFB50DB534B101_2042499888 Label:BP_PROP_treasurechest SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1220.958 Y=684.878 Z=-52.372), Max=(X=1319.224 Y=779.739 Z=18.186) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2FB58999456391D349DC0F86DAC136ED BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:316CF2A6494ACA4C0E4180A87D36AB8F BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:328E247242B39A173A6DD28FE76F62DC BaseClass:/Game/BP_Elements/Coin.Coin_C NativeClass:/Script/Engine.Actor Name:Coin_C_UAID_0AE0AFB50DB532B101_1601775880 Label:Coin7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3128.000 Y=768.000 Z=-22.000), Max=(X=3192.000 Y=832.000 Z=42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=1230.000 Y=1160.000 Z=0.013), Max=(X=1310.000 Y=1240.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3DCB65AE4A95691CA696C58AEB080CAE BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_outhouse.BP_PROP_outhouse_C NativeClass:/Script/Engine.Actor Name:BP_PROP_outhouse_C_UAID_0AE0AFB50DB534B101_2062440890 Label:BP_PROP_outhouse SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1011.350 Y=-654.034 Z=-51.366), Max=(X=1202.182 Y=-487.106 Z=221.103) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:447B58B641C9A985E682D888AEA31790 BaseClass:/Game/BP_Elements/Coin.Coin_C NativeClass:/Script/Engine.Actor Name:Coin_C_UAID_0AE0AFB50DB532B101_1593641879 Label:Coin6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2678.000 Y=2578.000 Z=-22.000), Max=(X=2742.000 Y=2642.000 Z=42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4D3BE93F4146AAAC8BBE79999D96D57F BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:4FCB700E4E4AF0C6ACB9B7B044CB72B8 BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_brazier_05.BP_PROP_brazier_05_C NativeClass:/Script/Engine.Actor Name:BP_PROP_brazier_05_C_UAID_0AE0AFB50DB535B101_1320648280 Label:BP_PROP_brazier_8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=345.601 Y=-419.055 Z=-50.684), Max=(X=461.382 Y=-300.782 Z=250.805) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:56F1ABDE4B84BFE657458DB54FD2A3D5 BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_brazier_04.BP_PROP_brazier_04_C NativeClass:/Script/Engine.Actor Name:BP_PROP_brazier_04_C_UAID_0AE0AFB50DB535B101_1246748278 Label:BP_PROP_brazier_04 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2871.269 Y=-46.240 Z=43.920), Max=(X=3191.260 Y=273.750 Z=368.717) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6189B70C4128579615E4F89A8E6D7C78 BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_bucket_04.BP_PROP_bucket_04_C NativeClass:/Script/Engine.Actor Name:BP_PROP_bucket_04_C_UAID_0AE0AFB50DB535B101_1177650272 Label:BP_PROP_bucket_04 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1176.270 Y=-547.534 Z=-50.142), Max=(X=1242.362 Y=-484.599 Z=38.879) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:6C269F424FDAF17FE6604496579C7A15 BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_brazier_05.BP_PROP_brazier_05_C NativeClass:/Script/Engine.Actor Name:BP_PROP_brazier_05_C_UAID_0AE0AFB50DB535B101_1214677276 Label:BP_PROP_brazier_6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2762.678 Y=-221.379 Z=-50.684), Max=(X=2875.158 Y=-110.136 Z=245.921) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7386E731429D234E0795BEA5E7DBB33A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_0AE0AFB50DB534B101_1984716886 Label:SM_EP_SofaDemo01d SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=71.939 Y=359.998 Z=-74.647), Max=(X=411.797 Y=710.486 Z=178.831) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:745A095B4BA4E157E4537FA63F5B7B43 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_2 Label:SM_ChamferCube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1100.000 Y=2000.000 Z=0.013), Max=(X=1200.000 Y=2100.000 Z=100.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7A4AA2AA43E17E91A27BD1B48FE17A3A BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_campfire_02.BP_PROP_campfire_02_C NativeClass:/Script/Engine.Actor Name:BP_PROP_campfire_02_C_UAID_0AE0AFB50DB534B101_2108109891 Label:BP_PROP_campfire_02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1003.334 Y=655.024 Z=-147.361), Max=(X=1330.947 Y=982.637 Z=185.906) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:87D153F2498431A3A4456095EB7EFB79 BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_brazier_05.BP_PROP_brazier_05_C NativeClass:/Script/Engine.Actor Name:BP_PROP_brazier_05_C_UAID_0AE0AFB50DB535B101_1315765279 Label:BP_PROP_brazier_7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=355.039 Y=1928.377 Z=-50.684), Max=(X=464.509 Y=2040.641 Z=243.113) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9368EF374FE63D2FA8C8B7A519E654CC BaseClass:/Game/BP_Elements/Coin.Coin_C NativeClass:/Script/Engine.Actor Name:Coin_C_UAID_0AE0AFB50DB532B101_1583449878 Label:Coin5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=988.000 Y=2718.000 Z=138.000), Max=(X=1052.000 Y=2782.000 Z=202.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9B63689B48FE068A8281D29EC54B865B BaseClass:/Game/BP_Elements/ma?a.ma?a_C NativeClass:/Script/Engine.Actor Name:ma?a_C_UAID_0AE0AFB50DB533B101_1174622057 Label:ma?a SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1478.000 Y=1298.000 Z=-2.000), Max=(X=1542.000 Y=1362.000 Z=62.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9BFF363746062F457E2F92A4631DBA20 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_11 Label:SM_ChamferCube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=481.699 Y=2271.699 Z=0.013), Max=(X=618.301 Y=2408.301 Z=100.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A39DEC6A45FC9D5D3CD941B503DC214F BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_cookingpot_small_Blueprint.BP_PROP_cookingpot_small_Blueprint_C NativeClass:/Script/Engine.Actor Name:BP_PROP_cookingpot_small_Blueprint_C_UAID_0AE0AFB50DB534B101_2117206892 Label:BP_PROP_cookingpot_small_Blueprint SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1138.500 Y=765.900 Z=-0.167), Max=(X=1219.999 Y=849.291 Z=59.133) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:AED5A40B4EB70202312DF28AEA3D328C BaseClass:/Game/Fantastic_Village_Pack/blueprints/buildings/BP_BLD_house_14.BP_BLD_house_14_C NativeClass:/Script/Engine.Actor Name:BP_BLD_house_14_C_UAID_0AE0AFB50DB534B101_1820601237 Label:BP_BLD_house_14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-651.398 Y=718.384 Z=-60.000), Max=(X=494.270 Y=2459.536 Z=2008.374) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B37CDBAC4B4C779456B7FEABD59A4924 BaseClass:/Game/BP_Elements/Coin.Coin_C NativeClass:/Script/Engine.Actor Name:Coin_C_UAID_0AE0AFB50DB52AB101_1233247467 Label:Coin3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2538.000 Y=1718.000 Z=-22.000), Max=(X=2602.000 Y=1782.000 Z=42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B785ED2844B84CFB91E7F39FE661CD99 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:BE36F17940B39AE4AE697E947E847AF8 BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_treasurechest.BP_PROP_treasurechest_C NativeClass:/Script/Engine.Actor Name:BP_PROP_treasurechest_C_UAID_0AE0AFB50DB534B101_2131873085 Label:BP_PROP_treasurechest2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-327.453 Y=1093.737 Z=-52.372), Max=(X=-232.001 Y=1191.298 Z=18.186) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BE5330414263596BCBB7178C321F1B5B BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_well.BP_PROP_well_C NativeClass:/Script/Engine.Actor Name:BP_PROP_well_C_UAID_0AE0AFB50DB535B101_1186325273 Label:BP_PROP_well SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2915.479 Y=-131.500 Z=-50.191), Max=(X=3165.551 Y=348.024 Z=373.903) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C7B2DAEC4A2682B0D22352BD31D4C852 BaseClass:/Game/Fantastic_Village_Pack/blueprints/buildings/BP_BLD_house_5.BP_BLD_house_5_C NativeClass:/Script/Engine.Actor Name:BP_BLD_house_5_C_UAID_0AE0AFB50DB534B101_1871747724 Label:BP_BLD_house_5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-965.435 Y=-534.794 Z=-60.573), Max=(X=206.762 Y=1200.427 Z=2218.739) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C85B1E9F43765463F7077387ED732AD5 BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_brazier_05.BP_PROP_brazier_05_C NativeClass:/Script/Engine.Actor Name:BP_PROP_brazier_05_C_UAID_0AE0AFB50DB535B101_1202762275 Label:BP_PROP_brazier_05 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2768.847 Y=323.776 Z=-50.684), Max=(X=2879.894 Y=431.570 Z=244.828) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C865897C40A2A7F6818F20961659526B BaseClass:/Game/BP_Elements/ma?a.ma?a_C NativeClass:/Script/Engine.Actor Name:ma?a_C_UAID_0AE0AFB50DB533B101_1179131058 Label:ma?a2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1478.000 Y=948.000 Z=-2.000), Max=(X=1542.000 Y=1012.000 Z=62.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CCFF262C46EEFFDF319E7F9539CE697E BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:D697B9354D47E150194022AD64095750 BaseClass:/Game/BP_Elements/Coin.Coin_C NativeClass:/Script/Engine.Actor Name:Coin_C_UAID_0AE0AFB50DB527B101_1078702935 Label:Coin SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1828.000 Y=1488.000 Z=-22.000), Max=(X=1892.000 Y=1552.000 Z=42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E725CD07496C2D9D2CDA7F8B790D32A6 BaseClass:/Game/BP_Elements/Coin.Coin_C NativeClass:/Script/Engine.Actor Name:Coin_C_UAID_0AE0AFB50DB52AB101_1230182466 Label:Coin2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1828.000 Y=1888.000 Z=-22.000), Max=(X=1892.000 Y=1952.000 Z=42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E73E39994140315EB81324BF0A5D6400 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_10 Label:SM_ChamferCube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=992.077 Y=2692.077 Z=0.013), Max=(X=1107.923 Y=2807.923 Z=100.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E99D0D49450C9375324978B135C02308 BaseClass:/Game/BP_Elements/Coin.Coin_C NativeClass:/Script/Engine.Actor Name:Coin_C_UAID_0AE0AFB50DB534B101_1972654885 Label:Coin8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=188.000 Y=1018.000 Z=-22.000), Max=(X=252.000 Y=1082.000 Z=42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EBC5C59541C877BF5267C39FDF4BFCD8 BaseClass:/Game/BP_Elements/Coin.Coin_C NativeClass:/Script/Engine.Actor Name:Coin_C_UAID_0AE0AFB50DB532B101_1566633877 Label:Coin4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1128.000 Y=2008.000 Z=178.000), Max=(X=1192.000 Y=2072.000 Z=242.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EC4E0C944CE6AC6E784BC6BB2916EA13 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:F1924B8D48954B30891B2DB6A694F9CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1050.000 Y=-700.000 Z=-100.000), Max=(X=4400.000 Y=3525.000 Z=-50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:F5E3FEB3450C49844FD93DA8E083C8AD BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:FBDB9C4948DCD089B88A4984EF12F7D2 BaseClass:/Game/UndeadPack/Lich/Blueprint/BP_Lich.BP_Lich_C NativeClass:/Script/Engine.Character Name:BP_Lich_C_UAID_0AE0AFB50DB533B101_1436889060 Label:BP_Lich SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1736.882 Y=755.581 Z=-259.728), Max=(X=2275.692 Y=1305.273 Z=269.401) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:1B1A84034044708D370FBC95AAF72CF0 BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_treasurechest.BP_PROP_treasurechest_C NativeClass:/Script/Engine.Actor Name:BP_PROP_treasurechest_C_UAID_0AE0AFB50DB534B101_2042499888 Label:BP_PROP_treasurechest SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1220.958 Y=684.878 Z=-52.372), Max=(X=1319.224 Y=779.739 Z=18.186) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:2FB58999456391D349DC0F86DAC136ED BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:316CF2A6494ACA4C0E4180A87D36AB8F BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:328E247242B39A173A6DD28FE76F62DC BaseClass:/Game/BP_Elements/Coin.Coin_C NativeClass:/Script/Engine.Actor Name:Coin_C_UAID_0AE0AFB50DB532B101_1601775880 Label:Coin7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3128.000 Y=768.000 Z=-22.000), Max=(X=3192.000 Y=832.000 Z=42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=1230.000 Y=1160.000 Z=0.013), Max=(X=1310.000 Y=1240.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:3DCB65AE4A95691CA696C58AEB080CAE BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_outhouse.BP_PROP_outhouse_C NativeClass:/Script/Engine.Actor Name:BP_PROP_outhouse_C_UAID_0AE0AFB50DB534B101_2062440890 Label:BP_PROP_outhouse SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1011.350 Y=-654.034 Z=-51.366), Max=(X=1202.182 Y=-487.106 Z=221.103) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:447B58B641C9A985E682D888AEA31790 BaseClass:/Game/BP_Elements/Coin.Coin_C NativeClass:/Script/Engine.Actor Name:Coin_C_UAID_0AE0AFB50DB532B101_1593641879 Label:Coin6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2678.000 Y=2578.000 Z=-22.000), Max=(X=2742.000 Y=2642.000 Z=42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:4D3BE93F4146AAAC8BBE79999D96D57F BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:4FCB700E4E4AF0C6ACB9B7B044CB72B8 BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_brazier_05.BP_PROP_brazier_05_C NativeClass:/Script/Engine.Actor Name:BP_PROP_brazier_05_C_UAID_0AE0AFB50DB535B101_1320648280 Label:BP_PROP_brazier_8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=345.601 Y=-419.055 Z=-50.684), Max=(X=461.382 Y=-300.782 Z=250.805) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:56F1ABDE4B84BFE657458DB54FD2A3D5 BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_brazier_04.BP_PROP_brazier_04_C NativeClass:/Script/Engine.Actor Name:BP_PROP_brazier_04_C_UAID_0AE0AFB50DB535B101_1246748278 Label:BP_PROP_brazier_04 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2871.269 Y=-46.240 Z=43.920), Max=(X=3191.260 Y=273.750 Z=368.717) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:6189B70C4128579615E4F89A8E6D7C78 BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_bucket_04.BP_PROP_bucket_04_C NativeClass:/Script/Engine.Actor Name:BP_PROP_bucket_04_C_UAID_0AE0AFB50DB535B101_1177650272 Label:BP_PROP_bucket_04 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1176.270 Y=-547.534 Z=-50.142), Max=(X=1242.362 Y=-484.599 Z=38.879) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:6C269F424FDAF17FE6604496579C7A15 BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_brazier_05.BP_PROP_brazier_05_C NativeClass:/Script/Engine.Actor Name:BP_PROP_brazier_05_C_UAID_0AE0AFB50DB535B101_1214677276 Label:BP_PROP_brazier_6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2762.678 Y=-221.379 Z=-50.684), Max=(X=2875.158 Y=-110.136 Z=245.921) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:7386E731429D234E0795BEA5E7DBB33A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_0AE0AFB50DB534B101_1984716886 Label:SM_EP_SofaDemo01d SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=71.939 Y=359.998 Z=-74.647), Max=(X=411.797 Y=710.486 Z=178.831) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:745A095B4BA4E157E4537FA63F5B7B43 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_2 Label:SM_ChamferCube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1100.000 Y=2000.000 Z=0.013), Max=(X=1200.000 Y=2100.000 Z=100.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:7A4AA2AA43E17E91A27BD1B48FE17A3A BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_campfire_02.BP_PROP_campfire_02_C NativeClass:/Script/Engine.Actor Name:BP_PROP_campfire_02_C_UAID_0AE0AFB50DB534B101_2108109891 Label:BP_PROP_campfire_02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1003.334 Y=655.024 Z=-147.361), Max=(X=1330.947 Y=982.637 Z=185.906) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:87D153F2498431A3A4456095EB7EFB79 BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_brazier_05.BP_PROP_brazier_05_C NativeClass:/Script/Engine.Actor Name:BP_PROP_brazier_05_C_UAID_0AE0AFB50DB535B101_1315765279 Label:BP_PROP_brazier_7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=355.039 Y=1928.377 Z=-50.684), Max=(X=464.509 Y=2040.641 Z=243.113) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:9368EF374FE63D2FA8C8B7A519E654CC BaseClass:/Game/BP_Elements/Coin.Coin_C NativeClass:/Script/Engine.Actor Name:Coin_C_UAID_0AE0AFB50DB532B101_1583449878 Label:Coin5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=988.000 Y=2718.000 Z=138.000), Max=(X=1052.000 Y=2782.000 Z=202.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:9B63689B48FE068A8281D29EC54B865B BaseClass:/Game/BP_Elements/ma?a.ma?a_C NativeClass:/Script/Engine.Actor Name:ma?a_C_UAID_0AE0AFB50DB533B101_1174622057 Label:ma?a SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1478.000 Y=1298.000 Z=-2.000), Max=(X=1542.000 Y=1362.000 Z=62.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:9BFF363746062F457E2F92A4631DBA20 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_11 Label:SM_ChamferCube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=481.699 Y=2271.699 Z=0.013), Max=(X=618.301 Y=2408.301 Z=100.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:A39DEC6A45FC9D5D3CD941B503DC214F BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_cookingpot_small_Blueprint.BP_PROP_cookingpot_small_Blueprint_C NativeClass:/Script/Engine.Actor Name:BP_PROP_cookingpot_small_Blueprint_C_UAID_0AE0AFB50DB534B101_2117206892 Label:BP_PROP_cookingpot_small_Blueprint SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1138.500 Y=765.900 Z=-0.167), Max=(X=1219.999 Y=849.291 Z=59.133) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:AED5A40B4EB70202312DF28AEA3D328C BaseClass:/Game/Fantastic_Village_Pack/blueprints/buildings/BP_BLD_house_14.BP_BLD_house_14_C NativeClass:/Script/Engine.Actor Name:BP_BLD_house_14_C_UAID_0AE0AFB50DB534B101_1820601237 Label:BP_BLD_house_14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-651.398 Y=718.384 Z=-60.000), Max=(X=494.270 Y=2459.536 Z=2008.374) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:B37CDBAC4B4C779456B7FEABD59A4924 BaseClass:/Game/BP_Elements/Coin.Coin_C NativeClass:/Script/Engine.Actor Name:Coin_C_UAID_0AE0AFB50DB52AB101_1233247467 Label:Coin3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2538.000 Y=1718.000 Z=-22.000), Max=(X=2602.000 Y=1782.000 Z=42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:B785ED2844B84CFB91E7F39FE661CD99 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:BE36F17940B39AE4AE697E947E847AF8 BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_treasurechest.BP_PROP_treasurechest_C NativeClass:/Script/Engine.Actor Name:BP_PROP_treasurechest_C_UAID_0AE0AFB50DB534B101_2131873085 Label:BP_PROP_treasurechest2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-327.453 Y=1093.737 Z=-52.372), Max=(X=-232.001 Y=1191.298 Z=18.186) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:BE5330414263596BCBB7178C321F1B5B BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_well.BP_PROP_well_C NativeClass:/Script/Engine.Actor Name:BP_PROP_well_C_UAID_0AE0AFB50DB535B101_1186325273 Label:BP_PROP_well SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2915.479 Y=-131.500 Z=-50.191), Max=(X=3165.551 Y=348.024 Z=373.903) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:C7B2DAEC4A2682B0D22352BD31D4C852 BaseClass:/Game/Fantastic_Village_Pack/blueprints/buildings/BP_BLD_house_5.BP_BLD_house_5_C NativeClass:/Script/Engine.Actor Name:BP_BLD_house_5_C_UAID_0AE0AFB50DB534B101_1871747724 Label:BP_BLD_house_5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-965.435 Y=-534.794 Z=-60.573), Max=(X=206.762 Y=1200.427 Z=2218.739) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:C85B1E9F43765463F7077387ED732AD5 BaseClass:/Game/Fantastic_Village_Pack/blueprints/props/BP_PROP_brazier_05.BP_PROP_brazier_05_C NativeClass:/Script/Engine.Actor Name:BP_PROP_brazier_05_C_UAID_0AE0AFB50DB535B101_1202762275 Label:BP_PROP_brazier_05 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2768.847 Y=323.776 Z=-50.684), Max=(X=2879.894 Y=431.570 Z=244.828) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:C865897C40A2A7F6818F20961659526B BaseClass:/Game/BP_Elements/ma?a.ma?a_C NativeClass:/Script/Engine.Actor Name:ma?a_C_UAID_0AE0AFB50DB533B101_1179131058 Label:ma?a2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1478.000 Y=948.000 Z=-2.000), Max=(X=1542.000 Y=1012.000 Z=62.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:CCFF262C46EEFFDF319E7F9539CE697E BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:D697B9354D47E150194022AD64095750 BaseClass:/Game/BP_Elements/Coin.Coin_C NativeClass:/Script/Engine.Actor Name:Coin_C_UAID_0AE0AFB50DB527B101_1078702935 Label:Coin SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1828.000 Y=1488.000 Z=-22.000), Max=(X=1892.000 Y=1552.000 Z=42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:E725CD07496C2D9D2CDA7F8B790D32A6 BaseClass:/Game/BP_Elements/Coin.Coin_C NativeClass:/Script/Engine.Actor Name:Coin_C_UAID_0AE0AFB50DB52AB101_1230182466 Label:Coin2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1828.000 Y=1888.000 Z=-22.000), Max=(X=1892.000 Y=1952.000 Z=42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:E73E39994140315EB81324BF0A5D6400 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_10 Label:SM_ChamferCube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=992.077 Y=2692.077 Z=0.013), Max=(X=1107.923 Y=2807.923 Z=100.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:E99D0D49450C9375324978B135C02308 BaseClass:/Game/BP_Elements/Coin.Coin_C NativeClass:/Script/Engine.Actor Name:Coin_C_UAID_0AE0AFB50DB534B101_1972654885 Label:Coin8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=188.000 Y=1018.000 Z=-22.000), Max=(X=252.000 Y=1082.000 Z=42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:EBC5C59541C877BF5267C39FDF4BFCD8 BaseClass:/Game/BP_Elements/Coin.Coin_C NativeClass:/Script/Engine.Actor Name:Coin_C_UAID_0AE0AFB50DB532B101_1566633877 Label:Coin4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1128.000 Y=2008.000 Z=178.000), Max=(X=1192.000 Y=2072.000 Z=242.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:EC4E0C944CE6AC6E784BC6BB2916EA13 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:F1924B8D48954B30891B2DB6A694F9CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1050.000 Y=-700.000 Z=-100.000), Max=(X=4400.000 Y=3525.000 Z=-50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:F5E3FEB3450C49844FD93DA8E083C8AD BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:FBDB9C4948DCD089B88A4984EF12F7D2 BaseClass:/Game/UndeadPack/Lich/Blueprint/BP_Lich.BP_Lich_C NativeClass:/Script/Engine.Character Name:BP_Lich_C_UAID_0AE0AFB50DB533B101_1436889060 Label:BP_Lich SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1736.882 Y=755.581 Z=-259.728), Max=(X=2275.692 Y=1305.273 Z=269.401) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/ThirdPerson/Maps/ThirdPersonMap
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of ThirdPersonMap Persistent Level
+ |- Always loaded Actor Count: 62 
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_BLD_house_14_C_UAID_0AE0AFB50DB534B101_1820601237
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/ZZ/TIC8BAGOEEJ0Y2DHVIRQ5N
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_BLD_house_5_C_UAID_0AE0AFB50DB534B101_1871747724
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X0/MA61BM9JBD2XISF75NV5SK
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FX_RectLight1_GEN_VARIABLE_BP_FX_RectLight_C_CAT_UAID_0AE0AFB50DB534B101_1820622239
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/ZZ/TIC8BAGOEEJ0Y2DHVIRQ5N
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FX_RectLight1_GEN_VARIABLE_BP_FX_RectLight_C_CAT_UAID_0AE0AFB50DB534B101_1871757726
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X0/MA61BM9JBD2XISF75NV5SK
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FX_RectLight2_GEN_VARIABLE_BP_FX_RectLight_C_CAT_UAID_0AE0AFB50DB534B101_1820625240
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/ZZ/TIC8BAGOEEJ0Y2DHVIRQ5N
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FX_RectLight2_GEN_VARIABLE_BP_FX_RectLight_C_CAT_UAID_0AE0AFB50DB534B101_1871758727
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X0/MA61BM9JBD2XISF75NV5SK
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FX_RectLight3_GEN_VARIABLE_BP_FX_RectLight_C_CAT_UAID_0AE0AFB50DB534B101_1820628241
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/ZZ/TIC8BAGOEEJ0Y2DHVIRQ5N
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FX_RectLight3_GEN_VARIABLE_BP_FX_RectLight_C_CAT_UAID_0AE0AFB50DB534B101_1871760728
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X0/MA61BM9JBD2XISF75NV5SK
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FX_RectLight4_GEN_VARIABLE_BP_FX_RectLight_C_CAT_UAID_0AE0AFB50DB534B101_1820632242
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/ZZ/TIC8BAGOEEJ0Y2DHVIRQ5N
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FX_RectLight4_GEN_VARIABLE_BP_FX_RectLight_C_CAT_UAID_0AE0AFB50DB534B101_1871762729
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X0/MA61BM9JBD2XISF75NV5SK
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FX_RectLight5_GEN_VARIABLE_BP_FX_RectLight_C_CAT_UAID_0AE0AFB50DB534B101_1820636243
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/ZZ/TIC8BAGOEEJ0Y2DHVIRQ5N
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FX_RectLight5_GEN_VARIABLE_BP_FX_RectLight_C_CAT_UAID_0AE0AFB50DB534B101_1871764730
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X0/MA61BM9JBD2XISF75NV5SK
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FX_RectLight6_GEN_VARIABLE_BP_FX_RectLight_C_CAT_UAID_0AE0AFB50DB534B101_1871766731
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X0/MA61BM9JBD2XISF75NV5SK
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FX_RectLight7_GEN_VARIABLE_BP_FX_RectLight_C_CAT_UAID_0AE0AFB50DB534B101_1871768732
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X0/MA61BM9JBD2XISF75NV5SK
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FX_RectLight8_GEN_VARIABLE_BP_FX_RectLight_C_CAT_UAID_0AE0AFB50DB534B101_1871771733
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X0/MA61BM9JBD2XISF75NV5SK
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FX_RectLight9_GEN_VARIABLE_BP_FX_RectLight_C_CAT_UAID_0AE0AFB50DB534B101_1871773734
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X0/MA61BM9JBD2XISF75NV5SK
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FX_RectLight_GEN_VARIABLE_BP_FX_RectLight_C_CAT_UAID_0AE0AFB50DB534B101_1820615238
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/ZZ/TIC8BAGOEEJ0Y2DHVIRQ5N
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_FX_RectLight_GEN_VARIABLE_BP_FX_RectLight_C_CAT_UAID_0AE0AFB50DB534B101_1871754725
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X0/MA61BM9JBD2XISF75NV5SK
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Lich_C_UAID_0AE0AFB50DB533B101_1436889060
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/YG/1RP7TLTRBS35FZT940YCQ7
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PROP_brazier_04_C_UAID_0AE0AFB50DB535B101_1246748278
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/K7/EP349PGIL29EMWMJT3NS4I
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PROP_brazier_05_C_UAID_0AE0AFB50DB535B101_1202762275
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3Z/YAS2E2S7UW853AQ1DQQVBU
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PROP_brazier_05_C_UAID_0AE0AFB50DB535B101_1214677276
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/8Y/MKPOP3PU9UG2ZMZ65H7QHT
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PROP_brazier_05_C_UAID_0AE0AFB50DB535B101_1315765279
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/XV/THLSADYSR9PFS29C4COUNN
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PROP_brazier_05_C_UAID_0AE0AFB50DB535B101_1320648280
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/WM/IOEJ6LR7DVOLJTB0PGEP9X
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PROP_bucket_04_C_UAID_0AE0AFB50DB535B101_1177650272
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/1A/ZM9UTGAS3CINWGMN6JNCRW
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PROP_campfire_02_C_UAID_0AE0AFB50DB534B101_2108109891
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GF/XAKSS9S0U6ZHOTYATPLW18
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PROP_cookingpot_small_Blueprint_C_UAID_0AE0AFB50DB534B101_2117206892
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/4C/1SQ7BUCIXPEPFTV6DZ08VI
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PROP_outhouse_C_UAID_0AE0AFB50DB534B101_2062440890
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BF/58BMVKV9ODA1Y7ILIR6WAH
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PROP_treasurechest_C_UAID_0AE0AFB50DB534B101_2042499888
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/VO/KO74UKUKUCEMOAB8DMFSOU
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PROP_treasurechest_C_UAID_0AE0AFB50DB534B101_2131873085
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/XY/2XRJJVI9C23ZOO23BA2YH1
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PROP_well_C_UAID_0AE0AFB50DB535B101_1186325273
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/UO/GE7MLR7URV6FCWO7G2CTLE
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Brush_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Coin_C_UAID_0AE0AFB50DB527B101_1078702935
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/0Z/TYS4WU3OB0SHFMA047FVI4
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Coin_C_UAID_0AE0AFB50DB52AB101_1230182466
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/2V/3WD5XV4WPVZ8G9E0Q2TZX2
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Coin_C_UAID_0AE0AFB50DB52AB101_1233247467
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/FX/UR2R01TC7LFDVY0HS9BQS7
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Coin_C_UAID_0AE0AFB50DB532B101_1566633877
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/80/XHUB0RZTOCI476UW0GRU0X
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Coin_C_UAID_0AE0AFB50DB532B101_1583449878
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/NI/8050E14H832ZE86UZR3908
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Coin_C_UAID_0AE0AFB50DB532B101_1593641879
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/PJ/YSQYGOOD8BFTRGJ0CS2YPK
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Coin_C_UAID_0AE0AFB50DB532B101_1601775880
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/74/LV0LL48UKC4JTU7GNUY4K5
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Coin_C_UAID_0AE0AFB50DB534B101_1972654885
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/G5/09ZSLRH9K5THI7Y9U7PKWU
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DirectionalLight_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ExponentialHeightFog_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ma?a_C_UAID_0AE0AFB50DB533B101_1174622057
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/HN/O2JCDYE6UD005A3N4WGF78
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ma?a_C_UAID_0AE0AFB50DB533B101_1179131058
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/XA/55ISIDDO3BVLS0KK1ZTGEA
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PlayerStart_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PostProcessVolume_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkyAtmosphere_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkyLight_1
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_10
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_11
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_0AE0AFB50DB534B101_1984716886
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/38/G2K2DM0NQWFRBOLQJM1ZJ0
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonMap_C_46
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.VolumetricCloud_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R
+
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
